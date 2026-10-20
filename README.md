@@ -210,7 +210,3 @@ y[i, k] = position[i, k] + sigma * epsilon[i, k]
 ## License
 
 This project is released under the BSD 3-Clause License.
-
-See the [LICENSE](LICENSE) file for the complete license text.
-
-Copyright (c) 2026, Nicola Forti and contributors.
